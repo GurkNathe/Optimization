@@ -33,3 +33,7 @@ The experiments.txt file contains a list of all the experiments to run. The expe
 Generates a CSV where each row is the resulting fitness values from each experiment. The first entry in each row has information on the algorithm run, how many experiments were run, and the time it took to run the experiments.
 
 The output files are named according to the current system time. The output files are placed in the directory of the Main file.
+
+# Documentation
+
+The documentation.pdf file contains the documentation for this project. The html folder contains index.html which is used to create the web version of the documentation that has interactive features for viewing the documentation. The documentation was generated using Doxygen.
