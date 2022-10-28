@@ -1,6 +1,6 @@
 # Optimization [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This is project that is used for testing optimization algorithms.
+This is project that is used for testing optimization algorithms. The libraries used consist of built-in Java libraries and a Mersenne Twister library made by David Beaumont distributed under the LGLP-2.1 license.
 
 The currently implemented algorithms are:
 
